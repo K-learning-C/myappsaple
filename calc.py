@@ -11,4 +11,6 @@ def multiply(x, y):
 def divide(x, y):
     return x/y
 
+def test(x, y):
+    return x + y
 #i'm adding this comment
